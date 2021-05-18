@@ -92,7 +92,7 @@ main.background .backimg{
 .navigation{
     position: absolute;
     bottom: 40px;
-    left: 75%;
+    left: 65%;
     transform: translateX(-50%);
     z-index: 100;
     display: flex;
